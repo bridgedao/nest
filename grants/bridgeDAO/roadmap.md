@@ -3,9 +3,9 @@
 ## Roadmap
 Roadmap is divided in 3 phases, each 3 months long.  
 Period and deliverable:  
-Sep-Nov: /Research/  
-Dec-Feb: /Proof of Concept/  
-Mar-May: /Alpha/  
+Sep-Nov: *Documentation*  
+Dec-Feb: *Proof of Concept* 
+Mar-May: *Alpha*  
 
 ### Phase 1: Research
 Period: September - November
