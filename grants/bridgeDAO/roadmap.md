@@ -39,7 +39,7 @@ Success criteria: built and tested Ramp and Whisperbook PoC
 * compensation to advisors, reviewers, testers
 * travel (attend key events, meet key partners)
 
-### Phase 3: Alpha
+### Phase 3: Paperclip Alpha
 Period: March - May
 *Description:*
 This phase will result in an extended network and a base layer of software available to nodes. We will build a suite of analytics and API-using software (which is generic enough to apply to most popular net-banking APIs and comes with popular bank support out of the box) to offer people so they can get started within a day.
