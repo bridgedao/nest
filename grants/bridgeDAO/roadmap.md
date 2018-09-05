@@ -1,4 +1,4 @@
-# BridgeDAO Budget & Roadmap
+# BridgeDAO Roadmap
 
 ## Roadmap
 Roadmap is divided in 3 phases, each 3 months long.  
